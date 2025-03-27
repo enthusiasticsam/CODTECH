@@ -1,0 +1,51 @@
+square_footage,bedrooms,bathrooms,area,price
+1200.0,2,2,Koramangala,7500000
+1800.0,3,2,Indiranagar,9500000
+2500.0,4,3,Whitefield,12500000
+1500.0,2,1,Yelahanka,3800000
+2000.0,3,3,Jayanagar,10500000
+900.0,1,1,Kengeri,2500000
+3200.0,4,4,HSR Layout,20000000
+1900.0,3,2,Marathahalli,6500000
+1400.0,2,2,Banashankari,4800000
+2800.0,4,3,Koramangala,18000000
+1600.0,3,2,Electronic City,6800000
+2100.0,3,3,Indiranagar,11500000
+1100.0,2,1,Yelahanka,3200000
+4000.0,5,4,Jayanagar,28000000
+1700.0,3,2,Whitefield,7800000
+1300.0,2,2,Kengeri,4000000
+2900.0,4,3,HSR Layout,17500000
+9999.0,5,5,Marathahalli,30000000
+1500.0,2,1,Electronic City,3500000
+2200.0,3,3,Banashankari,9000000
+1800.0,3,2,Koramangala,9500000
+2600.0,4,3,Indiranagar,15000000
+1900.0,2,2,Yelahanka,5200000
+1900.0,3,2,Whitefield,8500000
+3100.0,4,4,Jayanagar,22000000
+1400.0,2,1,Kengeri,3900000
+2300.0,3,3,HSR Layout,12000000
+2700.0,4,3,Marathahalli,14000000
+1000.0,1,1,Electronic City,2800000
+3500.0,5,4,Banashankari,24000000
+1600.0,3,2,Koramangala,9000000
+2000.0,3,3,Indiranagar,11000000
+1200.0,2,1,Yelahanka,3400000
+2400.0,4,3,Whitefield,13000000
+1800.0,3,2,Jayanagar,9500000
+1900.0,3,3,Kengeri,6000000
+2800.0,4,4,HSR Layout,18500000
+1500.0,2,2,Marathahalli,5000000
+2100.0,3,3,Electronic City,8800000
+1300.0,2,1,Banashankari,4000000
+3000.0,4,4,Koramangala,21000000
+1700.0,3,2,Indiranagar,9000000
+2500.0,4,3,Yelahanka,11000000
+1100.0,1,1,Whitefield,3500000
+3600.0,5,5,Jayanagar,26000000
+1900.0,3,2,Kengeri,6500000
+2200.0,3,3,HSR Layout,11500000
+1400.0,2,2,Marathahalli,4800000
+2700.0,4,3,Electronic City,12500000
+1600.0,3,2,Banashankari,7000000
