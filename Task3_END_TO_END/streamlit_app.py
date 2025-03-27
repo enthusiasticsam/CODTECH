@@ -6,7 +6,7 @@ import numpy as np
 # Load model and scaler
 try:
     model = joblib.load(r"Task3_END_TO_END\bangalore_price_model.pkl")
-    scaler = joblib.load(r"Task3_END_TO_END\bangalore_price_model.pkl")
+    scaler = joblib.load(r"Task3_END_TO_END\bangalore_scaler.pkl")
 except FileNotFoundError:
     st.error("Model or scaler file not found. Run train_model.py first.")
     st.stop()
