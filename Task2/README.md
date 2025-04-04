@@ -24,3 +24,8 @@ While the model performs reasonably well, there’s room for improvement. Future
 
 This project demonstrates a complete deep learning workflow, from preprocessing and model design to evaluation and visualization. It serves as a solid introduction to CNNs and image classification, and it lays the groundwork for more advanced projects in computer vision. Whether you're a beginner in deep learning or exploring practical applications of neural networks, this project offers valuable insights into building real-world AI models.
 
+OUTPUT
+
+![image](https://github.com/user-attachments/assets/725f3e59-e069-4cee-9a69-4d5da7fa9120)
+
+
