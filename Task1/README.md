@@ -22,4 +22,5 @@ The final step in the pipeline was loading the cleaned and processed data into a
 
 This pipeline is highly useful in real world scenarios where large datasets need to be processed consistently before being used for decision-making or predictive modeling. My work in this task demonstrates an understanding of data preprocessing, transformation techniques, and automation using Python, which are essential skills in data science and machine learning.
 
+OUTPUT
 ![image](https://github.com/user-attachments/assets/ed939a4b-d59f-43fc-bff2-ebcd2a1bf1d1)
