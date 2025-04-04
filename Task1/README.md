@@ -21,3 +21,5 @@ Next, data transformation was performed to convert categorical data into numeric
 The final step in the pipeline was loading the cleaned and processed data into a structured format, ready for further analysis. This could be saving the processed data as a CSV file, storing it in a database, or passing it directly to a machine learning model for training and prediction. By automating these steps into a single pipeline, I ensured that the data preparation process is efficient and repeatable.
 
 This pipeline is highly useful in real world scenarios where large datasets need to be processed consistently before being used for decision-making or predictive modeling. My work in this task demonstrates an understanding of data preprocessing, transformation techniques, and automation using Python, which are essential skills in data science and machine learning.
+
+![image](https://github.com/user-attachments/assets/ed939a4b-d59f-43fc-bff2-ebcd2a1bf1d1)
