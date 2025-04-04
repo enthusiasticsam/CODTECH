@@ -1,6 +1,6 @@
 # CODTECH DATA SCIENCE INTERNSHIP
 
-This repository contains four diverse and practical projects completed as part of the CodTech internship, showcasing key concepts in data engineering, deep learning, machine learning, and optimization. Each task addresses a unique problem domain and collectively demonstrates a well-rounded skill set across the data science pipeline using tools like Python, Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PuLP, and Streamlit.
+This repository contains four diverse and practical projects completed as part of the CodTech internship, showcasing key concepts in data science, deep learning, machine learning, and optimization. Each task addresses a unique problem domain and collectively demonstrates a well-rounded skill set across the data science pipeline using tools like Python, Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PuLP, and Streamlit.
 
 Task 1: Data Pipeline Development focuses on the foundational process of building a structured and reliable data pipeline. The goal is to prepare raw data into a clean and usable format through various preprocessing steps such as handling missing values, outlier detection, feature engineering, and data transformation. This task emphasizes the importance of data quality and structure in any machine learning or analytics workflow. It showcases the practical steps that make raw data suitable for downstream tasks like modeling and visualization.
 
