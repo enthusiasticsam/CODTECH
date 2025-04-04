@@ -23,3 +23,9 @@ To enable user interaction, a web application was developed using Streamlit. The
 As a deliverable, the application was deployed on Streamlit Community Cloud, making it publicly accessible via a URL. This deployment ensures that users can interact with the model’s functionality without needing to install any software. The project was developed using Python, leveraging libraries such as Pandas, NumPy, Scikit-learn, Joblib, and Streamlit, with all code and data hosted in a GitHub repository.
 
 This project demonstrates a comprehensive data science workflow, including data generation, preprocessing, feature engineering, model training, evaluation, and deployment. It serves as a practical example of applying machine learning to real estate analytics, with potential for further enhancement in model accuracy and feature expansion.
+
+OUTPUT
+
+![image](https://github.com/user-attachments/assets/ee18edc8-06b8-4bed-80f8-3ce89daf90f7)
+
+
