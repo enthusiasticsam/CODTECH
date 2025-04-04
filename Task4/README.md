@@ -21,3 +21,8 @@ After running the model, we find that the optimal solution is to produce 16 unit
 This solution is implemented using Python, leveraging the PuLP library for linear programming and Jupyter Notebook for interactive computation. The project is structured to be easy to understand and run, making it a great learning resource for those new to optimization techniques. By following the provided code, users can modify parameters, experiment with different constraints, and extend the model to more complex scenarios. To run the project, simply install PuLP using pip install pulp, execute the Python script or Jupyter Notebook, and review the results.
 
 In summary, this project provides a practical approach to solving optimization problems using linear programming. By applying mathematical models, businesses can enhance decision-making, optimize production, and increase profitability. Whether you are a student learning about optimization or a business professional looking to improve efficiency, this project serves as an excellent reference. It highlights the power of data-driven decision-making and demonstrates how computational techniques can be used to solve real-world business challenges.
+
+OUTPUT
+
+![image](https://github.com/user-attachments/assets/72b5338d-47a4-467c-85f9-325add7c8c30)
+
